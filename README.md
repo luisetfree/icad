@@ -1,4 +1,4 @@
-icad
+ICAD
 ====
 
-Sistema para iglesia canaan AD
+Web Oficial de Iglesia Canaan AD
